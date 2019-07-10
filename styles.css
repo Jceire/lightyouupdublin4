@@ -1,0 +1,142 @@
+.body{
+
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  background-color: #000;
+
+}
+
+
+
+/*
+.content-wrapper{
+  margin: 0 auto;
+  width: 1000px;
+
+} */
+
+.firstimage{
+  width:100%;
+}
+
+.text-wrapper{
+width: 100%;
+position: absolute;
+margin-top: -60%;
+font-size: 3.0rem;
+text-align: center;
+}
+
+.text-wrapper{
+text-align: center;
+position: absolute;
+color: #fff;
+font-size: 3.0rem;
+font-family: Dosis;
+}
+
+
+/* navbar */
+
+.mynavbar{
+  background-color: rgb(18, 15, 52, .3);
+  font-family: Dosis;
+
+  /* opacity: .2; */
+  position: absolute;
+  width: 100%;
+  padding-right: 10px;
+}
+
+.navbar-row {
+  width: 100%;
+}
+
+.navbar .navbar-expand-lg .navbar-dark .bg-dark{
+  }
+
+  .collapse, .navbar-toggler {
+   /* float: right; */
+   margin-left: auto;
+   
+  }
+
+  .navbar-brand{
+    padding-left: 15px;
+  }
+  
+  .nav-item{
+    padding-left: 15px;
+  }
+
+  /* new */
+  /* .mb4 {
+    height: 100vh;
+
+    background: url(../images/18anglebright.jpeg);
+  } */
+
+/* footer */
+
+#footer{
+  background-color: #000;
+  color: #fff;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+  font-family: monospace;
+}
+
+
+
+.social-icon{
+margin: 40px 30px;
+font-size: 45px;
+}
+
+/* booking */
+
+
+/* booking image */
+
+.bookingimage{
+  width: 100%;
+  padding-bottom: 100px;
+}
+
+
+#contactform{
+  padding-bottom: 100px;
+  padding-top: 50px;
+}
+
+/* Contact Form */
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 2.5rem;
+  font-weight: 500;
+  line-height: 1.2;
+  font-family: Dosis;
+  text-align: center;
+}
+
+#h1abovecontactform{
+ 
+    margin-bottom: 2.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    font-family: Dosis;
+    text-align: center;
+    font-weight: bold;
+    margin: auto;
+    padding-bottom: 50px;
+
+   
+  }
+
+  .container{
+    font-family: Dosis;
+  }
